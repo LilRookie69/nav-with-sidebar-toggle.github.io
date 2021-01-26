@@ -1,3 +1,14 @@
+/* body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+#navbar-fixed {
+    overflow: hidden;
+    position: fixed;
+} */
+
 .burger {
     z-index: 999;
     position: relative;
